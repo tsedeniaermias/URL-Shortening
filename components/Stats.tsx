@@ -104,7 +104,7 @@ const Stats = () => {
             <h3 className="card-title">Brand Recognition</h3>
             <p className="card-body">
               {" "}
-              Boost your brand recognition with each click. Generic links don't
+              Boost your brand recognition with each click. Generic links don&apos;t
               mean a thing. Branded links help instil confidence in your
               content.
             </p>
